@@ -1,5 +1,3 @@
-Plaintext
-
 stramlit
 pandas
 plotly
