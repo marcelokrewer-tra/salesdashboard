@@ -1,0 +1,6 @@
+Plaintext
+
+stramlit
+pandas
+plotly
+openpyxl
